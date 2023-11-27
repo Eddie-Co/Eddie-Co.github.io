@@ -1,2 +1,5 @@
+http://example.com/2023/11/27/23_11_27/GB-NOMA/
 http://example.com/2023/11/27/hello-world/
 http://example.com/
+http://example.com/tags/NOMA/
+http://example.com/tags/Wireless-communication/
