@@ -22,7 +22,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2023-11-27</lastmod>
+    <lastmod>2023-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,14 +30,14 @@
   
   <url>
     <loc>http://example.com/tags/NOMA/</loc>
-    <lastmod>2023-11-27</lastmod>
+    <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Wireless-communication/</loc>
-    <lastmod>2023-11-27</lastmod>
+    <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
